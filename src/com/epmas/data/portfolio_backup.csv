@@ -1,0 +1,5 @@
+TYPE,SYMBOL,NAME,PRICE,QUANTITY,SPECIAL_FIELD
+BASE,AAPL,Apple Inc. Common Stock,175.5000,10.000000,N/A
+BASE,MSFT,Microsoft Corp. Common Stock,420.2000,5.000000,N/A
+CRYPTO,BTC,Bitcoin Cryptocurrency,64500.0000,0.250000,Bitcoin Mainnet
+CRYPTO,ETH,Ethereum Cryptocurrency,3500.0000,1.500000,Ethereum Virtual Machine
